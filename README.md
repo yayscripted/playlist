@@ -20,14 +20,14 @@
 - [x] Customize your CSS or add another column
 
 ### Wrap
-- [ ] Push your changes!
+- [x] Push your changes!
 
 ## Day 2
 ### JS
-- [ ] Use forEach Loop to display the data from each of your array's in the correct div
-- [ ] Update the code to append and HTML Elements (img, p, a tags) using jQuery. 
+- [x] Use forEach Loop to display the data from each of your array's in the correct div
+- [x] Update the code to append and HTML Elements (img, p, a tags) using jQuery. 
 ### Wrap
-- [ ] Push your changes!
+- [x] Push your changes!
 
 
 ## Day 3
