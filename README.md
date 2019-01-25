@@ -32,19 +32,20 @@
 
 ## Day 3
 ### JS
-- [ ] A working click handler
-- [ ] Retrieve user input
-- [ ] Push items to your song array
-- [ ] Display the result to the screen
+- [x] A working click handler
+- [x] Retrieve user input
+- [x] Push items to your song array
+- [x] Display the result to the screen
 
 ### Wrap
-- [ ] Push your changes!
+- [x] Push your changes!
 
 ## Extensions
-- [ ] Update the HTML and CSS to reflect your own style.
-- [ ] Add more songs to your list and song information to your list
-- [ ] Add a delete button to delete songs on your list
+- [x] Update the HTML and CSS to reflect your own style.
+- [x] Add more songs to your list and song information to your list
+- [x] Add a delete button to delete songs on your list
 - [ ] Use local storage to save your songs locally
+- [ ] Add a shuffle button and functionality
 
 
 
