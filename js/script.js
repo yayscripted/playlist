@@ -5,11 +5,11 @@ var localStorage = Window.localStorage;
 var songs = ["Crossing Field", "Connect", "Travelers of the Wind", "Ai", "Rightfully"];
 // BELOW Add 4 More arrays to store images_links, artists, song lengths, and links for each song
 // Make sure they match the same order as your array above
-var imgs = ["https://i.ytimg.com/an_webp/qtPEm9ZADZ8/mqdefault_6s.webp?du=3000&sqp=CNDPqeIF&rs=AOn4CLCCzbic-tYDJDvmxNGyvZNrOZBE8w", 
-"https://i.ytimg.com/an_webp/OrgpX-_bFqM/mqdefault_6s.webp?du=3000&sqp=CKrBqeIF&rs=AOn4CLDxWji2RURO3G33_q9-CTgwg9HBKA",
-"https://i.ytimg.com/an_webp/zZ5O3JpXJew/mqdefault_6s.webp?du=3000&sqp=CNjIqeIF&rs=AOn4CLAUOtRsAUhUiwI12FvKAOMAsD9V-Q",
-"https://i.ytimg.com/an_webp/RHqOdDG3Jjg/mqdefault_6s.webp?du=3000&sqp=CPDAqeIF&rs=AOn4CLAu8lVoRwhXAvdZCW8ruZy70lci9A",
-"https://i.ytimg.com/an_webp/7z4WJAEG3u8/mqdefault_6s.webp?du=3000&sqp=CIe2qeIF&rs=AOn4CLA5KRjtMUilZutQpkOzMcxWWXEBbw"];
+var imgs = ["https://i.ytimg.com/an_webp/71dKWBFmu8M/mqdefault_6s.webp?du=3000&sqp=CI7kzeIF&rs=AOn4CLBwo_xNwcJhYNSOH--UkcdYDTqaZA", 
+"https://i.ytimg.com/an_webp/_HudC71bmlg/mqdefault_6s.webp?du=3000&sqp=CJCSzuIF&rs=AOn4CLBPyB7HAVE1gEKOV8kvb_X9k1GsVg",
+"https://i.ytimg.com/an_webp/BiSu2y42030/mqdefault_6s.webp?du=3000&sqp=CNqtzuIF&rs=AOn4CLCnPTiDOzdM3aF8h4qYm1YbU7GeqA",
+"https://i.ytimg.com/an_webp/RHqOdDG3Jjg/mqdefault_6s.webp?du=3000&sqp=CICGzuIF&rs=AOn4CLASWpRjTUP5nJj3B2zMM9C2xT1qOg",
+"https://i.ytimg.com/an_webp/7z4WJAEG3u8/mqdefault_6s.webp?du=3000&sqp=CMKJzuIF&rs=AOn4CLAY7xHfecuzVENP3AByftgQz0mdLA"];
 var artists = ["LiSa", "ClaRis", "Joe Rinoie and Mizuno Saaya", "Deco*27", "Mili"];
 var lengths = ["4:08", "4:27", "4:27", "4:31", "3:31"];
 var links = ["https://www.youtube.com/watch?v=KId6eunoiWk", "https://www.youtube.com/watch?v=g1vw9ftAWSc", "https://www.youtube.com/watch?v=BiSu2y42030", "https://www.youtube.com/watch?v=RHqOdDG3Jjg", "https://www.youtube.com/watch?v=7z4WJAEG3u8"];
